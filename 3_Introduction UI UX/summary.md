@@ -1,7 +1,7 @@
 
 # (3) Introduction UI/UX
 
-**Resume Section 3**
+**Resume Section 3 Introduction UI/UX**
 
 ### #1 User Experience (UX)
 Berkaitan tentang hal apa saja yang user rasakan ketika menggunakan produk yang kita buat. Terdapat 4 UX Design Thinking, yaitu 
