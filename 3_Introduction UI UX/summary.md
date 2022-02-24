@@ -1,5 +1,5 @@
 
-# 3_Introduction UI/UX
+# (3) Introduction UI/UX
 
 **Resume Section 3**
 
