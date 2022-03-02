@@ -1,0 +1,27 @@
+* {
+    font-family: Slabo 27px, serif;
+}
+.red {
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    margin: 20px;
+    background-color: red;
+    box-sizing: border-box;
+}
+.blue {
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    border: 1px solid;
+    background-color: blue;
+    box-sizing: border-box;
+}
+.green {
+    width: 300px;
+    height: 300px;
+    border: 1px solid;
+    margin: 0;
+    background-color: green;
+    box-sizing: border-box;
+}
