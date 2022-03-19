@@ -1,1 +1,1 @@
-# (8) Bootstrap
+# (8) Javascript Refreshment
