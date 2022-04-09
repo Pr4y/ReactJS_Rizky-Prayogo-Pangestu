@@ -1,6 +1,5 @@
 # (8) Javascript Refreshment
 
-
 ## Resume Materi Javascript
 
 ### 1.  Javascript values
